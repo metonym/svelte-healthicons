@@ -6,7 +6,7 @@
 
 <!-- REPO_URL -->
 
-<!-- Try it in the [Svelte REPL](). -->
+Try it in the [Svelte REPL](https://svelte.dev/repl/5fff97c2932a4467a6e94f2b6baee561).
 
 ---
 
@@ -83,5 +83,5 @@ Svelte version 3.31 or greater is required to use this library with TypeScript.
 
 [MIT](LICENSE)
 
-[npm]: https://img.shields.io/npm/v/svelte-healthicons.svg?color=%237d4cdb&style=for-the-badge
+[npm]: https://img.shields.io/npm/v/svelte-healthicons.svg?color=%236566ff&style=for-the-badge
 [npm-url]: https://npmjs.com/package/svelte-healthicons
