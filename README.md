@@ -79,6 +79,13 @@ Svelte version 3.31 or greater is required to use this library with TypeScript.
 
 ## [Changelog](CHANGELOG.md)
 
+## Developing this library
+
+Currently, `healthicons` is not published to the NPM registry. We do the following to build the library:
+
+1. Execute `build.sh` which downloads `svg` icons from `https://github.com/resolvetosavelives/healthicons/public/icons/svg` to  `node_modules/healthicons`
+2. Run `build.js` which uses `svelvg` to create a Svelte component library
+
 ## License
 
 [MIT](LICENSE)
