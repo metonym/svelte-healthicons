@@ -13,7 +13,7 @@
     "dev": "rollup -cw",
     "predeploy": "rollup -c",
     "deploy": "gh-pages -d dist",
-    "download-icons": "sh build.sh",
+    "download-icons": "bash build.sh",
     "prepack": "node build",
     "test": "svelte-check --workspace test"
   },
