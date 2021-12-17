@@ -1,6 +1,6 @@
 # Icon Index
 
-> 1686 total icons
+> 1749 total icons
 
 ## Icons
 
@@ -17,6 +17,7 @@
 - FilledBloodBlood_rh_p
 - FilledBodyArm
 - FilledBodyBacteria
+- FilledBodyBladder
 - FilledBodyBlood_cells
 - FilledBodyBlood_drop
 - FilledBodyBody
@@ -25,14 +26,21 @@
 - FilledBodyEnzyme
 - FilledBodyEye
 - FilledBodyFemale_reproductive_system
+- FilledBodyFoot
+- FilledBodyGallbladder
 - FilledBodyHeart
 - FilledBodyJoints
 - FilledBodyKidneys
 - FilledBodyLeg
+- FilledBodyLiverAlt
 - FilledBodyLiver
 - FilledBodyLungs
+- FilledBodyLymph_nodes
 - FilledBodyMouth
+- FilledBodyNerve
 - FilledBodyNeurology
+- FilledBodyNose
+- FilledBodyPancreas
 - FilledBodySkeleton
 - FilledBodySkull
 - FilledBodySpine
@@ -52,15 +60,19 @@
 - FilledConditionsHiv_neg
 - FilledConditionsHiv_pos
 - FilledConditionsHpv
+- FilledConditionsIntestinalPain
+- FilledConditionsLossSmell
 - FilledConditionsLow_vision
 - FilledConditionsNausea
 - FilledConditionsOverweight
 - FilledConditionsPneumonia
+- FilledConditionsRibbon
 - FilledConditionsSti
 - FilledConditionsSweating
 - FilledConditionsTb
 - FilledConditionsUnderweight
 - FilledConditionsVih
+- FilledConditionsViral_lung_infection
 - FilledConditionsVomiting
 - FilledDevicesBlood_pressure
 - FilledDevicesBlood_pressure_2
@@ -84,6 +96,7 @@
 - FilledDevicesOdontology
 - FilledDevicesOdontology_implant
 - FilledDevicesOxygen_tank
+- FilledDevicesPpeFaceShieldAlt
 - FilledDevicesPpeMask
 - FilledDevicesPpe_apron
 - FilledDevicesPpe_face_mask
@@ -96,6 +109,7 @@
 - FilledDevicesPpe_santizer_alt
 - FilledDevicesPpe_suit
 - FilledDevicesRespirator
+- FilledDevicesSling
 - FilledDevicesStethoscope
 - FilledDevicesSurgical_sterilization
 - FilledDevicesSyringeVaccine
@@ -106,6 +120,9 @@
 - FilledDevicesTreated_water
 - FilledDevicesVentilator
 - FilledDevicesVentilator_alt
+- FilledDevicesVirusSanitizerSpray
+- FilledDevicesVirus_lab_research_syringe
+- FilledDevicesVirus_lab_research_test_tube
 - FilledDevicesWeight
 - FilledDevicesWheelchair
 - FilledDevicesWheelchair_alt
@@ -180,6 +197,7 @@
 - FilledFamilyOral_contraception_pillsx21
 - FilledFamilyOral_contraception_pillsx28
 - FilledFamilySayana_press
+- FilledFamilySperm
 - FilledMedicationsBlister_pills_oval_x1
 - FilledMedicationsBlister_pills_oval_x14
 - FilledMedicationsBlister_pills_oval_x16
@@ -336,11 +354,13 @@
 - FilledShapesTriangle_small
 - FilledSpecialtiesAccident_and_emergency
 - FilledSpecialtiesAdmissions
+- FilledSpecialtiesBiochemistry_laboratory
 - FilledSpecialtiesCardiology
 - FilledSpecialtiesChaplaincy
 - FilledSpecialtiesCoronary_care_unit
 - FilledSpecialtiesCritical_care
 - FilledSpecialtiesDischarge_lounge
+- FilledSpecialtiesEars_nose_and_throat
 - FilledSpecialtiesEndocrinology
 - FilledSpecialtiesFinance_dept
 - FilledSpecialtiesGastroenterology
@@ -368,6 +388,7 @@
 - FilledSpecialtiesRheumatology
 - FilledSpecialtiesSocial_work
 - FilledSpecialtiesSpeech_language_therapy
+- FilledSpecialtiesUrology
 - FilledSymbols_2g
 - FilledSymbols_3g
 - FilledSymbolsAlert
@@ -480,7 +501,6 @@
 - FilledSymbolsQuestion_triangle
 - FilledSymbolsReferral
 - FilledSymbolsRegister_book
-- FilledSymbolsRibbon
 - FilledSymbolsRunning_water_alt
 - FilledSymbolsRx
 - FilledSymbolsSexual_reproductive_health
@@ -505,13 +525,14 @@
 - FilledSymbolsUi_zoom_out
 - FilledSymbolsUn_paved_road
 - FilledSymbolsVirusMutation
+- FilledSymbolsVirusResearch
 - FilledSymbolsVirusShield
 - FilledSymbolsVirus
 - FilledSymbolsVirus_alt
 - FilledSymbolsVirus_patient
+- FilledSymbolsVirus_research_alt
 - FilledSymbolsWater_treatment
 - FilledSymbolsYes
-- FilledSymptomsIntestinalPain
 - FilledTypography_Exclamation
 - FilledTypography_0
 - FilledTypography_1
@@ -579,6 +600,7 @@
 - NegativeBloodBlood_rh_p
 - NegativeBodyArm
 - NegativeBodyBacteria
+- NegativeBodyBladder
 - NegativeBodyBlood_cells
 - NegativeBodyBlood_drop
 - NegativeBodyBody
@@ -587,14 +609,21 @@
 - NegativeBodyEnzyme
 - NegativeBodyEye
 - NegativeBodyFemale_reproductive_system
+- NegativeBodyFoot
+- NegativeBodyGallbladder
 - NegativeBodyHeart
 - NegativeBodyJoints
 - NegativeBodyKidneys
 - NegativeBodyLeg
+- NegativeBodyLiverAlt
 - NegativeBodyLiver
 - NegativeBodyLungs
+- NegativeBodyLymph_nodes
 - NegativeBodyMouth
+- NegativeBodyNerve
 - NegativeBodyNeurology
+- NegativeBodyNose
+- NegativeBodyPancreas
 - NegativeBodySkeleton
 - NegativeBodySkull
 - NegativeBodySpine
@@ -614,15 +643,19 @@
 - NegativeConditionsHiv_neg
 - NegativeConditionsHiv_pos
 - NegativeConditionsHpv
+- NegativeConditionsIntestinalPain
+- NegativeConditionsLossSmell
 - NegativeConditionsLow_vision
 - NegativeConditionsNausea
 - NegativeConditionsOverweight
 - NegativeConditionsPneumonia
+- NegativeConditionsRibbon
 - NegativeConditionsSti
 - NegativeConditionsSweating
 - NegativeConditionsTb
 - NegativeConditionsUnderweight
 - NegativeConditionsVih
+- NegativeConditionsViral_lung_infection
 - NegativeConditionsVomiting
 - NegativeDevicesBlood_pressure
 - NegativeDevicesBlood_pressure_2
@@ -646,6 +679,7 @@
 - NegativeDevicesOdontology
 - NegativeDevicesOdontology_implant
 - NegativeDevicesOxygen_tank
+- NegativeDevicesPpeFaceShieldAlt
 - NegativeDevicesPpeMask
 - NegativeDevicesPpe_apron
 - NegativeDevicesPpe_face_mask
@@ -658,6 +692,7 @@
 - NegativeDevicesPpe_santizer_alt
 - NegativeDevicesPpe_suit
 - NegativeDevicesRespirator
+- NegativeDevicesSling
 - NegativeDevicesStethoscope
 - NegativeDevicesSurgical_sterilization
 - NegativeDevicesSyringeVaccine
@@ -668,6 +703,9 @@
 - NegativeDevicesTreated_water
 - NegativeDevicesVentilator
 - NegativeDevicesVentilator_alt
+- NegativeDevicesVirusSanitizerSpray
+- NegativeDevicesVirus_lab_research_syringe
+- NegativeDevicesVirus_lab_research_test_tube
 - NegativeDevicesWeight
 - NegativeDevicesWheelchair
 - NegativeDevicesWheelchair_alt
@@ -742,6 +780,7 @@
 - NegativeFamilyOral_contraception_pillsx21
 - NegativeFamilyOral_contraception_pillsx28
 - NegativeFamilySayana_press
+- NegativeFamilySperm
 - NegativeMedicationsBlister_pills_oval_x1
 - NegativeMedicationsBlister_pills_oval_x14
 - NegativeMedicationsBlister_pills_oval_x16
@@ -898,11 +937,13 @@
 - NegativeShapesTriangle_small
 - NegativeSpecialtiesAccident_and_emergency
 - NegativeSpecialtiesAdmissions
+- NegativeSpecialtiesBiochemistry_laboratory
 - NegativeSpecialtiesCardiology
 - NegativeSpecialtiesChaplaincy
 - NegativeSpecialtiesCoronary_care_unit
 - NegativeSpecialtiesCritical_care
 - NegativeSpecialtiesDischarge_lounge
+- NegativeSpecialtiesEars_nose_and_throat
 - NegativeSpecialtiesEndocrinology
 - NegativeSpecialtiesFinance_dept
 - NegativeSpecialtiesGastroenterology
@@ -930,6 +971,7 @@
 - NegativeSpecialtiesRheumatology
 - NegativeSpecialtiesSocial_work
 - NegativeSpecialtiesSpeech_language_therapy
+- NegativeSpecialtiesUrology
 - NegativeSymbols_2g
 - NegativeSymbols_3g
 - NegativeSymbolsAlert
@@ -1042,7 +1084,6 @@
 - NegativeSymbolsQuestion_triangle
 - NegativeSymbolsReferral
 - NegativeSymbolsRegister_book
-- NegativeSymbolsRibbon
 - NegativeSymbolsRunning_water_alt
 - NegativeSymbolsRx
 - NegativeSymbolsSexual_reproductive_health
@@ -1067,13 +1108,14 @@
 - NegativeSymbolsUi_zoom_out
 - NegativeSymbolsUn_paved_road
 - NegativeSymbolsVirusMutation
+- NegativeSymbolsVirusResearch
 - NegativeSymbolsVirusShield
 - NegativeSymbolsVirus
 - NegativeSymbolsVirus_alt
 - NegativeSymbolsVirus_patient
+- NegativeSymbolsVirus_research_alt
 - NegativeSymbolsWater_treatment
 - NegativeSymbolsYes
-- NegativeSymptomsIntestinalPain
 - NegativeTypography_Exclamation
 - NegativeTypography_0
 - NegativeTypography_1
@@ -1141,6 +1183,7 @@
 - OutlineBloodBlood_rh_p
 - OutlineBodyArm
 - OutlineBodyBacteria
+- OutlineBodyBladder
 - OutlineBodyBlood_cells
 - OutlineBodyBlood_drop
 - OutlineBodyBody
@@ -1149,14 +1192,21 @@
 - OutlineBodyEnzyme
 - OutlineBodyEye
 - OutlineBodyFemale_reproductive_system
+- OutlineBodyFoot
+- OutlineBodyGallbladder
 - OutlineBodyHeart
 - OutlineBodyJoints
 - OutlineBodyKidneys
 - OutlineBodyLeg
+- OutlineBodyLiverAlt
 - OutlineBodyLiver
 - OutlineBodyLungs
+- OutlineBodyLymph_nodes
 - OutlineBodyMouth
+- OutlineBodyNerve
 - OutlineBodyNeurology
+- OutlineBodyNose
+- OutlineBodyPancreas
 - OutlineBodySkeleton
 - OutlineBodySkull
 - OutlineBodySpine
@@ -1176,15 +1226,19 @@
 - OutlineConditionsHiv_neg
 - OutlineConditionsHiv_pos
 - OutlineConditionsHpv
+- OutlineConditionsIntestinalPain
+- OutlineConditionsLossSmell
 - OutlineConditionsLow_vision
 - OutlineConditionsNausea
 - OutlineConditionsOverweight
 - OutlineConditionsPneumonia
+- OutlineConditionsRibbon
 - OutlineConditionsSti
 - OutlineConditionsSweating
 - OutlineConditionsTb
 - OutlineConditionsUnderweight
 - OutlineConditionsVih
+- OutlineConditionsViral_lung_infection
 - OutlineConditionsVomiting
 - OutlineDevicesBlood_pressure
 - OutlineDevicesBlood_pressure_2
@@ -1208,6 +1262,7 @@
 - OutlineDevicesOdontology
 - OutlineDevicesOdontology_implant
 - OutlineDevicesOxygen_tank
+- OutlineDevicesPpeFaceShieldAlt
 - OutlineDevicesPpeMask
 - OutlineDevicesPpe_apron
 - OutlineDevicesPpe_face_mask
@@ -1220,6 +1275,7 @@
 - OutlineDevicesPpe_santizer_alt
 - OutlineDevicesPpe_suit
 - OutlineDevicesRespirator
+- OutlineDevicesSling
 - OutlineDevicesStethoscope
 - OutlineDevicesSurgical_sterilization
 - OutlineDevicesSyringeVaccine
@@ -1230,6 +1286,9 @@
 - OutlineDevicesTreated_water
 - OutlineDevicesVentilator
 - OutlineDevicesVentilator_alt
+- OutlineDevicesVirusSanitizerSpray
+- OutlineDevicesVirus_lab_research_syringe
+- OutlineDevicesVirus_lab_research_test_tube
 - OutlineDevicesWeight
 - OutlineDevicesWheelchair
 - OutlineDevicesWheelchair_alt
@@ -1304,6 +1363,7 @@
 - OutlineFamilyOral_contraception_pillsx21
 - OutlineFamilyOral_contraception_pillsx28
 - OutlineFamilySayana_press
+- OutlineFamilySperm
 - OutlineMedicationsBlister_pills_oval_x1
 - OutlineMedicationsBlister_pills_oval_x14
 - OutlineMedicationsBlister_pills_oval_x16
@@ -1460,11 +1520,13 @@
 - OutlineShapesTriangle_small
 - OutlineSpecialtiesAccident_and_emergency
 - OutlineSpecialtiesAdmissions
+- OutlineSpecialtiesBiochemistry_laboratory
 - OutlineSpecialtiesCardiology
 - OutlineSpecialtiesChaplaincy
 - OutlineSpecialtiesCoronary_care_unit
 - OutlineSpecialtiesCritical_care
 - OutlineSpecialtiesDischarge_lounge
+- OutlineSpecialtiesEars_nose_and_throat
 - OutlineSpecialtiesEndocrinology
 - OutlineSpecialtiesFinance_dept
 - OutlineSpecialtiesGastroenterology
@@ -1492,6 +1554,7 @@
 - OutlineSpecialtiesRheumatology
 - OutlineSpecialtiesSocial_work
 - OutlineSpecialtiesSpeech_language_therapy
+- OutlineSpecialtiesUrology
 - OutlineSymbols_2g
 - OutlineSymbols_3g
 - OutlineSymbolsAlert
@@ -1604,7 +1667,6 @@
 - OutlineSymbolsQuestion_triangle
 - OutlineSymbolsReferral
 - OutlineSymbolsRegister_book
-- OutlineSymbolsRibbon
 - OutlineSymbolsRunning_water_alt
 - OutlineSymbolsRx
 - OutlineSymbolsSexual_reproductive_health
@@ -1629,13 +1691,14 @@
 - OutlineSymbolsUi_zoom_out
 - OutlineSymbolsUn_paved_road
 - OutlineSymbolsVirusMutation
+- OutlineSymbolsVirusResearch
 - OutlineSymbolsVirusShield
 - OutlineSymbolsVirus
 - OutlineSymbolsVirus_alt
 - OutlineSymbolsVirus_patient
+- OutlineSymbolsVirus_research_alt
 - OutlineSymbolsWater_treatment
 - OutlineSymbolsYes
-- OutlineSymptomsIntestinalPain
 - OutlineTypography_Exclamation
 - OutlineTypography_0
 - OutlineTypography_1
