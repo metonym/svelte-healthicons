@@ -8,7 +8,6 @@
   "main": "./lib/index.js",
   "types": "./lib/index.d.ts",
   "type": "module",
-  "sideEffects": false,
   "scripts": {
     "dev": "rollup -cw",
     "predeploy": "rollup -c",
@@ -19,11 +18,11 @@
   },
   "devDependencies": {
     "gh-pages": "^3.2.3",
-    "rollup": "^2.62.0",
-    "svelte": "^3.44.3",
-    "svelte-check": "^2.2.11",
-    "svelte-readme": "^3.6.2",
-    "svelvg": "^0.8.3"
+    "rollup": "^2.70.1",
+    "svelte": "^3.47.0",
+    "svelte-check": "^2.6.0",
+    "svelte-readme": "^3.6.3",
+    "svelvg": "^0.10.1"
   },
   "repository": {
     "type": "git",

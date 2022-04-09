@@ -3,11 +3,7 @@
   import OutlineDevicesMicroscope from "../lib/OutlineDevicesMicroscope.svelte";
 </script>
 
-<!-- svelte-ignore missing-declaration -->
-<FilledBodyArm width={20} />
-<!-- svelte-ignore missing-declaration -->
+<FilledBodyArm width={20} fill="red" />
 <FilledBodyFoot />
-<!-- svelte-ignore missing-declaration -->
 <NegativeBodyEnzyme />
-<!-- svelte-ignore missing-declaration -->
 <OutlineDevicesMicroscope />
