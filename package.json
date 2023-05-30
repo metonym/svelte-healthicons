@@ -19,10 +19,10 @@
   "devDependencies": {
     "gh-pages": "^3.2.3",
     "rollup": "^2.70.1",
-    "svelte": "^3.47.0",
-    "svelte-check": "^2.6.0",
+    "svelte": "^3.59.1",
+    "svelte-check": "^3.4.3",
     "svelte-readme": "^3.6.3",
-    "svelvg": "^0.10.1"
+    "svelvg": "^0.11.4"
   },
   "repository": {
     "type": "git",
