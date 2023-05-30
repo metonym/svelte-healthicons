@@ -1,6 +1,6 @@
 # Icon Index
 
-> 1749 total icons
+> 1797 total icons
 
 ## Icons
 
@@ -20,6 +20,7 @@
 - FilledBodyBladder
 - FilledBodyBlood_cells
 - FilledBodyBlood_drop
+- FilledBodyBlood_vessel
 - FilledBodyBody
 - FilledBodyDna
 - FilledBodyEar
@@ -29,6 +30,7 @@
 - FilledBodyFoot
 - FilledBodyGallbladder
 - FilledBodyHeart
+- FilledBodyIntestine
 - FilledBodyJoints
 - FilledBodyKidneys
 - FilledBodyLeg
@@ -71,6 +73,7 @@
 - FilledConditionsSweating
 - FilledConditionsTb
 - FilledConditionsUnderweight
+- FilledConditionsVaricose_vein
 - FilledConditionsVih
 - FilledConditionsViral_lung_infection
 - FilledConditionsVomiting
@@ -85,6 +88,8 @@
 - FilledDevicesDental_hygiene
 - FilledDevicesDiscriminating_concentration_bioassays
 - FilledDevicesDisinfecting_wipes
+- FilledDevicesExercise_bicycle
+- FilledDevicesEyeglasses
 - FilledDevicesFever
 - FilledDevicesHospitalized
 - FilledDevicesInpatient
@@ -96,6 +101,8 @@
 - FilledDevicesOdontology
 - FilledDevicesOdontology_implant
 - FilledDevicesOxygen_tank
+- FilledDevicesPatient_band
+- FilledDevicesPatient_band_alt
 - FilledDevicesPpeFaceShieldAlt
 - FilledDevicesPpeMask
 - FilledDevicesPpe_apron
@@ -240,9 +247,11 @@
 - FilledPeopleBaby_female_0203m
 - FilledPeopleBaby_female_0203m_alt
 - FilledPeopleBaby_female_0306m
+- FilledPeopleBaby_female_0609m
 - FilledPeopleBaby_male_0203m
 - FilledPeopleBaby_male_0203m_alt
 - FilledPeopleBaby_male_0306m
+- FilledPeopleBaby_male_0609m
 - FilledPeopleBoy_0105y
 - FilledPeopleBoy_1015y
 - FilledPeopleCall_centre
@@ -317,6 +326,7 @@
 - FilledPeopleWater_sanitation
 - FilledPeopleWold_care
 - FilledPeopleWoman
+- FilledPeopleWorld_care
 - FilledPeopleYoung_people
 - FilledPlacesAmbulatory_clinic
 - FilledPlacesChurch
@@ -387,10 +397,13 @@
 - FilledSpecialtiesRespirology
 - FilledSpecialtiesRheumatology
 - FilledSpecialtiesSocial_work
+- FilledSpecialtiesSonography
 - FilledSpecialtiesSpeech_language_therapy
 - FilledSpecialtiesUrology
 - FilledSymbols_2g
 - FilledSymbols_3g
+- FilledSymbolsFHIR_logo
+- FilledSymbolsAlcohol
 - FilledSymbolsAlert
 - FilledSymbolsAlert_circle
 - FilledSymbolsAlert_triangle
@@ -443,6 +456,7 @@
 - FilledSymbolsExcel_logo
 - FilledSymbolsExercise
 - FilledSymbolsFingerprint
+- FilledSymbolsFruits
 - FilledSymbolsGeo_location
 - FilledSymbolsGlobalPandemic
 - FilledSymbolsGlobe
@@ -459,6 +473,7 @@
 - FilledSymbolsHigh_bars
 - FilledSymbolsHigh_level
 - FilledSymbolsHomeQuarantine
+- FilledSymbolsHospice
 - FilledSymbolsHospital_symbol
 - FilledSymbolsI_certificate_paper
 - FilledSymbolsI_documents_accepted
@@ -486,6 +501,7 @@
 - FilledSymbolsNutrition
 - FilledSymbolsOpenMRS_logo
 - FilledSymbolsOutbreak
+- FilledSymbolsPalliativeCare
 - FilledSymbolsPaved_road
 - FilledSymbolsPaved_road_alt
 - FilledSymbolsPeace
@@ -603,6 +619,7 @@
 - NegativeBodyBladder
 - NegativeBodyBlood_cells
 - NegativeBodyBlood_drop
+- NegativeBodyBlood_vessel
 - NegativeBodyBody
 - NegativeBodyDna
 - NegativeBodyEar
@@ -612,6 +629,7 @@
 - NegativeBodyFoot
 - NegativeBodyGallbladder
 - NegativeBodyHeart
+- NegativeBodyIntestine
 - NegativeBodyJoints
 - NegativeBodyKidneys
 - NegativeBodyLeg
@@ -654,6 +672,7 @@
 - NegativeConditionsSweating
 - NegativeConditionsTb
 - NegativeConditionsUnderweight
+- NegativeConditionsVaricose_vein
 - NegativeConditionsVih
 - NegativeConditionsViral_lung_infection
 - NegativeConditionsVomiting
@@ -668,6 +687,8 @@
 - NegativeDevicesDental_hygiene
 - NegativeDevicesDiscriminating_concentration_bioassays
 - NegativeDevicesDisinfecting_wipes
+- NegativeDevicesExercise_bicycle
+- NegativeDevicesEyeglasses
 - NegativeDevicesFever
 - NegativeDevicesHospitalized
 - NegativeDevicesInpatient
@@ -679,6 +700,8 @@
 - NegativeDevicesOdontology
 - NegativeDevicesOdontology_implant
 - NegativeDevicesOxygen_tank
+- NegativeDevicesPatient_band
+- NegativeDevicesPatient_band_alt
 - NegativeDevicesPpeFaceShieldAlt
 - NegativeDevicesPpeMask
 - NegativeDevicesPpe_apron
@@ -823,9 +846,11 @@
 - NegativePeopleBaby_female_0203m
 - NegativePeopleBaby_female_0203m_alt
 - NegativePeopleBaby_female_0306m
+- NegativePeopleBaby_female_0609m
 - NegativePeopleBaby_male_0203m
 - NegativePeopleBaby_male_0203m_alt
 - NegativePeopleBaby_male_0306m
+- NegativePeopleBaby_male_0609m
 - NegativePeopleBoy_0105y
 - NegativePeopleBoy_1015y
 - NegativePeopleCall_centre
@@ -900,6 +925,7 @@
 - NegativePeopleWater_sanitation
 - NegativePeopleWold_care
 - NegativePeopleWoman
+- NegativePeopleWorld_care
 - NegativePeopleYoung_people
 - NegativePlacesAmbulatory_clinic
 - NegativePlacesChurch
@@ -970,10 +996,13 @@
 - NegativeSpecialtiesRespirology
 - NegativeSpecialtiesRheumatology
 - NegativeSpecialtiesSocial_work
+- NegativeSpecialtiesSonography
 - NegativeSpecialtiesSpeech_language_therapy
 - NegativeSpecialtiesUrology
 - NegativeSymbols_2g
 - NegativeSymbols_3g
+- NegativeSymbolsFHIR_logo
+- NegativeSymbolsAlcohol
 - NegativeSymbolsAlert
 - NegativeSymbolsAlert_circle
 - NegativeSymbolsAlert_triangle
@@ -1026,6 +1055,7 @@
 - NegativeSymbolsExcel_logo
 - NegativeSymbolsExercise
 - NegativeSymbolsFingerprint
+- NegativeSymbolsFruits
 - NegativeSymbolsGeo_location
 - NegativeSymbolsGlobalPandemic
 - NegativeSymbolsGlobe
@@ -1042,6 +1072,7 @@
 - NegativeSymbolsHigh_bars
 - NegativeSymbolsHigh_level
 - NegativeSymbolsHomeQuarantine
+- NegativeSymbolsHospice
 - NegativeSymbolsHospital_symbol
 - NegativeSymbolsI_certificate_paper
 - NegativeSymbolsI_documents_accepted
@@ -1069,6 +1100,7 @@
 - NegativeSymbolsNutrition
 - NegativeSymbolsOpenMRS_logo
 - NegativeSymbolsOutbreak
+- NegativeSymbolsPalliativeCare
 - NegativeSymbolsPaved_road
 - NegativeSymbolsPaved_road_alt
 - NegativeSymbolsPeace
@@ -1186,6 +1218,7 @@
 - OutlineBodyBladder
 - OutlineBodyBlood_cells
 - OutlineBodyBlood_drop
+- OutlineBodyBlood_vessel
 - OutlineBodyBody
 - OutlineBodyDna
 - OutlineBodyEar
@@ -1195,6 +1228,7 @@
 - OutlineBodyFoot
 - OutlineBodyGallbladder
 - OutlineBodyHeart
+- OutlineBodyIntestine
 - OutlineBodyJoints
 - OutlineBodyKidneys
 - OutlineBodyLeg
@@ -1237,6 +1271,7 @@
 - OutlineConditionsSweating
 - OutlineConditionsTb
 - OutlineConditionsUnderweight
+- OutlineConditionsVaricose_vein
 - OutlineConditionsVih
 - OutlineConditionsViral_lung_infection
 - OutlineConditionsVomiting
@@ -1251,6 +1286,8 @@
 - OutlineDevicesDental_hygiene
 - OutlineDevicesDiscriminating_concentration_bioassays
 - OutlineDevicesDisinfecting_wipes
+- OutlineDevicesExercise_bicycle
+- OutlineDevicesEyeglasses
 - OutlineDevicesFever
 - OutlineDevicesHospitalized
 - OutlineDevicesInpatient
@@ -1262,6 +1299,8 @@
 - OutlineDevicesOdontology
 - OutlineDevicesOdontology_implant
 - OutlineDevicesOxygen_tank
+- OutlineDevicesPatient_band
+- OutlineDevicesPatient_band_alt
 - OutlineDevicesPpeFaceShieldAlt
 - OutlineDevicesPpeMask
 - OutlineDevicesPpe_apron
@@ -1406,9 +1445,11 @@
 - OutlinePeopleBaby_female_0203m
 - OutlinePeopleBaby_female_0203m_alt
 - OutlinePeopleBaby_female_0306m
+- OutlinePeopleBaby_female_0609m
 - OutlinePeopleBaby_male_0203m
 - OutlinePeopleBaby_male_0203m_alt
 - OutlinePeopleBaby_male_0306m
+- OutlinePeopleBaby_male_0609m
 - OutlinePeopleBoy_0105y
 - OutlinePeopleBoy_1015y
 - OutlinePeopleCall_centre
@@ -1483,6 +1524,7 @@
 - OutlinePeopleWater_sanitation
 - OutlinePeopleWold_care
 - OutlinePeopleWoman
+- OutlinePeopleWorld_care
 - OutlinePeopleYoung_people
 - OutlinePlacesAmbulatory_clinic
 - OutlinePlacesChurch
@@ -1553,10 +1595,13 @@
 - OutlineSpecialtiesRespirology
 - OutlineSpecialtiesRheumatology
 - OutlineSpecialtiesSocial_work
+- OutlineSpecialtiesSonography
 - OutlineSpecialtiesSpeech_language_therapy
 - OutlineSpecialtiesUrology
 - OutlineSymbols_2g
 - OutlineSymbols_3g
+- OutlineSymbolsFHIR_logo
+- OutlineSymbolsAlcohol
 - OutlineSymbolsAlert
 - OutlineSymbolsAlert_circle
 - OutlineSymbolsAlert_triangle
@@ -1609,6 +1654,7 @@
 - OutlineSymbolsExcel_logo
 - OutlineSymbolsExercise
 - OutlineSymbolsFingerprint
+- OutlineSymbolsFruits
 - OutlineSymbolsGeo_location
 - OutlineSymbolsGlobalPandemic
 - OutlineSymbolsGlobe
@@ -1625,6 +1671,7 @@
 - OutlineSymbolsHigh_bars
 - OutlineSymbolsHigh_level
 - OutlineSymbolsHomeQuarantine
+- OutlineSymbolsHospice
 - OutlineSymbolsHospital_symbol
 - OutlineSymbolsI_certificate_paper
 - OutlineSymbolsI_documents_accepted
@@ -1652,6 +1699,7 @@
 - OutlineSymbolsNutrition
 - OutlineSymbolsOpenMRS_logo
 - OutlineSymbolsOutbreak
+- OutlineSymbolsPalliativeCare
 - OutlineSymbolsPaved_road
 - OutlineSymbolsPaved_road_alt
 - OutlineSymbolsPeace
